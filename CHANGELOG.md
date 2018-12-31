@@ -50,6 +50,8 @@
     parameters will still change existing replicas ([issue #1244](https://github.com/PowerShell/SqlServerDsc/issues/1244)).
   - ReadOnlyRoutingList now gets updated without throwing an error on the first
     run ([issue #518](https://github.com/PowerShell/SqlServerDsc/issues/518)).
+- Changes to SqlRs
+  - [issue #864](https://github.com/PowerShell/SqlServerDsc/issues/864) SqlRs can now initialise SSRS 2017 instances
 
 ## 12.3.0.0
 
